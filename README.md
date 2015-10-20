@@ -11,5 +11,8 @@ http://www.codeskulptor.org/#user39_tlhzYVXuHl_17.py
 Certificate of Completion from Rice University
 https://www.coursera.org/account/accomplishments/records/tg3QHpYgWR5GkMPV
 
+## Rice Rocks was ported to HTML5 version as a side project using Udacity's P3 game engine and HTML5 canvas
+http://shui91.github.io/project-asteroids/index.html
+
 
 
